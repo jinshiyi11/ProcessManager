@@ -1,0 +1,2 @@
+﻿ProcessManager是一个android平台的应用管理器
+可以查看内存使用，查看进程
